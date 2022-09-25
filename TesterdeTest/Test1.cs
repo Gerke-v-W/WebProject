@@ -18,7 +18,6 @@ namespace TesterdeTest
 
             // Act
 
-
             // Assert
             Assert.Equal(1, 1);
         }
