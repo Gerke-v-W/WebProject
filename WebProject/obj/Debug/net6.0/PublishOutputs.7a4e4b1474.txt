@@ -1,0 +1,7 @@
+C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\bin\Debug\net6.0\publish\WebProject.exe
+C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\bin\Debug\net6.0\publish\WebProject.dll
+C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\bin\Debug\net6.0\publish\WebProject.deps.json
+C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\bin\Debug\net6.0\publish\WebProject.runtimeconfig.json
+C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\bin\Debug\net6.0\publish\WebProject.pdb

@@ -5,7 +5,17 @@
       "ProjectGuid": "0fe36885-5e57-434b-99fe-08d94c02b5a9",
       "DisplayName": "WebProject",
       "ColorIndex": 0
+    },
+    "0afbe11c-4094-4b8b-8052-0921644acf05": {
+      "ProjectGuid": "0afbe11c-4094-4b8b-8052-0921644acf05",
+      "DisplayName": "DemoLibrary.Tests",
+      "ColorIndex": 1
+    },
+    "a138e772-a421-4709-92ff-983ec18f0331": {
+      "ProjectGuid": "a138e772-a421-4709-92ff-983ec18f0331",
+      "DisplayName": "DemoLibrary2.Tests",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
