@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TsQfq62QbzVbI8vDlT2mMdS747h10O9tAIizvcszaEazCfZN3D93a82Nq8F+tBRQzKKUEKtegJ8twuFayE4qsA==",
+  "dgSpecHash": "AOjZGd45pZ8Oi3Q0F2iKfqaKulKQZu0RZk2hyJFEVkd6K7rer4lmnyYLYShP8LMxXGdz1T9fZM4ZlU+atR53CQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\gsvan\\OneDrive\\Studie\\Jaar3\\semester1\\Algoritme Analyse\\Week1\\WebProject\\WebProject\\WebProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gsvan\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
