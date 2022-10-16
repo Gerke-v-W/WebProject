@@ -15,7 +15,12 @@
       "ProjectGuid": "a138e772-a421-4709-92ff-983ec18f0331",
       "DisplayName": "DemoLibrary2.Tests",
       "ColorIndex": 2
+    },
+    "b412d635-1e01-4bed-b86a-956b577ef1e6": {
+      "ProjectGuid": "b412d635-1e01-4bed-b86a-956b577ef1e6",
+      "DisplayName": "TesterdeTest.Tests",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
