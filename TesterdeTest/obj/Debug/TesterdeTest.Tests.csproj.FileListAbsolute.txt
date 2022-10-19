@@ -16,3 +16,4 @@ C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProjec
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TesterdeTest\obj\Debug\TesterdeTest.Tests.csproj.CopyComplete
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TesterdeTest\obj\Debug\TesterdeTest.dll
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TesterdeTest\obj\Debug\TesterdeTest.pdb
+C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TesterdeTest\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
