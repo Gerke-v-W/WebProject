@@ -23,3 +23,4 @@ C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProjec
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\obj\Debug\net6.0\ref\WebProject.dll
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\obj\Debug\net6.0\WebProject.pdb
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\obj\Debug\net6.0\WebProject.genruntimeconfig.cache
+C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\obj\Debug\net6.0\WebProject.csproj.AssemblyReference.cache
