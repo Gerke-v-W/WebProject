@@ -4,7 +4,7 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
+    <ActiveDebugProfile>WebProject</ActiveDebugProfile>
     <NameOfLastUsedPublishProfile>C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\WebProject\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

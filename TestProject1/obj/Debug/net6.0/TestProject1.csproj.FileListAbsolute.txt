@@ -7,7 +7,6 @@ C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProjec
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\bin\Debug\net6.0\TestProject1.deps.json
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\bin\Debug\net6.0\TestProject1.runtimeconfig.json
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\bin\Debug\net6.0\TestProject1.dll
-C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\bin\Debug\net6.0\ref\TestProject1.dll
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\bin\Debug\net6.0\TestProject1.pdb
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
@@ -97,3 +96,4 @@ C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProjec
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\obj\Debug\net6.0\TestProject1.pdb
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
 C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\gsvan\OneDrive\Studie\Jaar3\semester1\Algoritme Analyse\Week1\WebProject\TestProject1\obj\Debug\net6.0\refint\TestProject1.dll
